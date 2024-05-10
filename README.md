@@ -3,5 +3,8 @@ Module 11 challenge repository
 Part 1: Scrape Titles and Preview Text from Mars News
 Open the Jupyter Notebook in the starter code folder named part_1_mars_news.ipynb. You will work in this code as you follow the steps below to scrape the Mars News website.                  
 Part 2: Scrape and Analyze Mars Weather Data
-Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.ipynb. You will work in this code as you follow the steps below to scrape and analyze Mars weather data.             
+Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.ipynb. You will work in this code as you follow the steps below to scrape and analyze Mars weather data.        
+
+Part 1 and part 2 code are contained in the respective jupyter notebook files                    
+Required csv file of Mars weather data contained in the data folder
 
